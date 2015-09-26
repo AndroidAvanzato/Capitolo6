@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string name="app_name">Wearable Notifications</string>
+    <string name="basic_example">Esempio base</string>
+    <string name="stylized_text_example">Esempio styled text</string>
+    <string name="display_intent_example">Esempio Intent</string>
+    <string name="multisize_display_intent_example">Multiple-sized display intent esempio</string>
+    <string name="animated_display_intent_example">Animated display intent esempio</string>
+    <string name="content_icon_example">Content icon esempio</string>
+
+    <string name="example_content_title">Esempio content title</string>
+    <string name="example_content_text">Esempio content text</string>
+
+    <string name="xsmall_sized_display">X-Small sized display</string>
+    <string name="small_sized_display">Small sized display</string>
+    <string name="medium_sized_display">Medium sized display</string>
+    <string name="large_sized_display">Large sized display</string>
+    <string name="full_screen_display">Full-Screen display</string>
+    <string name="dp256_height_display">256dp height display</string>
+    <string name="dp512_height_display">512dp height display</string>
+
+    <string name="action_a">Action A</string>
+    <string name="action_b">Action B</string>
+    <string name="action_c">Action C</string>
+    <string name="action_d">Action D</string>
+
+    <string name="reply">Rispondi</string>
+    <string name="reply_was">La risposta era: </string>
+    <string name="third_page">Terza pagina</string>
+    <string name="choice_1">Scelta #1</string>
+
+
+
+</resources>
